@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MindPalace</string>
+    <string name="title_activity_home">Home</string>
+    <string name="room_name">You are in the</string>
+</resources>
